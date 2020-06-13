@@ -1,1 +1,1 @@
-# confused_drug_names
+# image_similarity
